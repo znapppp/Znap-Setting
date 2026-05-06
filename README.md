@@ -1,4 +1,5 @@
 # Znap- Setup Configuration
+**Last update :** 05 May 2026
 
 ## Tablet Settings
 **Device:** Wacom CTL-472
