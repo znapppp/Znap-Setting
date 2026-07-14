@@ -15,7 +15,8 @@
 
 **Switch:** [Mount Tai GT HE](https://th.shp.ee/km7DyKRv)
 
-<img src="https://github.com/user-attachments/assets/94b0d0aa-c99d-4d91-a51f-2391bf92b357" width="450" alt="SayoDevice O3C Settings">
+
+<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/385242b7-505f-434c-aba6-69358e9d4c8e" width="450" alt="SayoDevice O3C Settings">
 
 ---
 
