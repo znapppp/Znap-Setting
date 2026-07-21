@@ -1,5 +1,5 @@
 # Znap- Setup Configuration
-**Last update :** `21 July 2026`
+**Last update :** `22 July 2026`
 
 ## Tablet Settings
 **Device:** `Wacom CTL-472`
@@ -19,7 +19,7 @@
 
 **Actuation Point:** `2.2 mm` 
 
-**Rapid Trgger:** `OFF`
+**Rapid Trigger:** `OFF`
 
 <img width="388" height="276" alt="image" src="https://github.com/user-attachments/assets/1ed91b11-f460-424f-89b6-616c8d07ef0e" width="450" alt="AP Keyboard Settings" />
 
