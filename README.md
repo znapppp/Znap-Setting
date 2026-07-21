@@ -4,6 +4,8 @@
 ## Tablet Settings
 **Device:** `Wacom CTL-472`
 
+**Area:** `42mm x 34mm`
+
 **Driver** : `OpenTabletDriver v0.6.7 ` <a href="https://github.com/OpenTabletDriver/OpenTabletDriver/releases" style="color: #FFC0CB;">(Dowdload Link)</a>
 
 <img width="450"  alt="image" src="https://github.com/user-attachments/assets/5bde6890-dba1-423a-aa1b-2899bb4e8c0a" alt="Wacom Tablet Settings" />
