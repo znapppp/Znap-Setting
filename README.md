@@ -1,22 +1,25 @@
 # Znap- Setup Configuration
-**Last update :** `15 May 2026`
+**Last update :** `21 July 2026`
 
 ## Tablet Settings
-**Device:** Wacom CTL-472
+**Device:** `Wacom CTL-472`
 
-**Driver** : TabletDriverGUI 0.2.3 <a href="https://github.com/hawku/TabletDriver/releases" style="color: #FFC0CB;">(Dowdload Link)</a>
+**Driver** : `OpenTabletDriver v0.6.7 ` <a href="https://github.com/OpenTabletDriver/OpenTabletDriver/releases" style="color: #FFC0CB;">(Dowdload Link)</a>
 
-<img width="450" alt="image" src="https://github.com/user-attachments/assets/0e678f4c-3a09-428d-ad5c-4effb2898643" alt="Wacom Tablet Settings">
+<img width="450"  alt="image" src="https://github.com/user-attachments/assets/5bde6890-dba1-423a-aa1b-2899bb4e8c0a" alt="Wacom Tablet Settings" />
 
 ---
 
-## Sayo Device Settings
-**Device:** SayoDevice O3C
+## Keyboard Setting
+**Device:** `Keychron C75 TMR 8K`
 
-**Switch:** [Mount Tai GT HE](https://th.shp.ee/km7DyKRv)
+**Switch:** `Ultra-Fast Lime Magnetic`
 
+**Actuation Point:** `2.2 mm` 
 
-<img width="1915" height="910" alt="image" src="https://github.com/user-attachments/assets/385242b7-505f-434c-aba6-69358e9d4c8e" width="450" alt="SayoDevice O3C Settings">
+**Rapid Trgger:** `OFF`
+
+<img width="388" height="276" alt="image" src="https://github.com/user-attachments/assets/1ed91b11-f460-424f-89b6-616c8d07ef0e" width="450" alt="AP Keyboard Settings" />
 
 ---
 
