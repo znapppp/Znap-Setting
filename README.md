@@ -1,4 +1,6 @@
 # Znap- Setup Configuration
+**osu! profile :** `Znap-` <a href="https://osu.ppy.sh/users/22919575" style="color: #FFC0CB;"> ( Profile Link )</a>
+
 **Last update :** `22 July 2026`
 
 ## Tablet Settings
